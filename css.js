@@ -52,7 +52,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Effect Hover In Card',
-		tags: ['hover', 'card', '3d', 'responsive', 'clip-path', 'geometry', 'polygon']
+		tags: ['hover', 'card', '3d', 'responsive', 'clip-path', 'geometry']
 	},
 	{
 		link: 'rXeVMy',
@@ -415,7 +415,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Hover With clip-path',
-		tags: ['hover', 'polygon', 'clip-path']
+		tags: ['hover', 'clip-path']
 	},
 	{
 		link: 'zmyyjV',
@@ -426,7 +426,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Template Test',
-		tags: ['template', 'layout', 'responsive', 'hamburger', 'menu', 'border', 'hover']
+		tags: ['template', 'responsive', 'hamburger', 'menu', 'border', 'hover']
 	},
 	{
 		link: 'Jmwwdq',
@@ -437,7 +437,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Template Test',
-		tags: ['template', 'layout', 'responsive', 'hamburger', 'menu', 'border', 'hover', 'footer', 'button', '3d', 'gradient']
+		tags: ['template', 'responsive', 'hamburger', 'menu', 'border', 'hover', 'footer', 'button', '3d', 'gradient']
 	},
 	{
 		link: 'dqQZxQ',
@@ -492,7 +492,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Reloj Css',
-		tags: ['animation', 'gradient', 'responsive']
+		tags: ['animation', 'gradient', 'clock', 'responsive']
 	},
 	{
 		link: 'zJLgqb',
@@ -503,7 +503,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Reverse Layout Animation',
-		tags: ['animation', 'template', 'layout', 'grid', 'animationend', 'footer', 'responsive']
+		tags: ['animation', 'template', 'grid', 'animationend', 'footer', 'responsive']
 	},
 	{
 		link: 'NLBZLp',
@@ -635,7 +635,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Layout Responsive Flexbox',
-		tags: ['template', 'layout', 'footer', 'menu', 'responsive']
+		tags: ['template', 'footer', 'menu', 'responsive']
 	},
 	{
 		link: 'QBmvYj',
@@ -646,7 +646,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Layout Responsive Flexbox Grid',
-		tags: ['template', 'layout', 'footer', 'menu', 'border', 'responsive']
+		tags: ['template', 'footer', 'menu', 'border', 'responsive']
 	},
 	{
 		link: 'pZLPxy',
@@ -679,7 +679,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Cafam Domicilios',
-		tags: ['template', 'layout', 'responsive']
+		tags: ['template', 'responsive']
 	},
 	{
 		link: 'jpZrgp',
@@ -822,7 +822,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Layout responsive',
-		tags: ['template', 'layout', 'responsive']
+		tags: ['template', 'responsive']
 	},
 	{
 		link: 'XWWpjaR',
@@ -1031,7 +1031,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Effect split text',
-		tags: ['hover', 'clip-path', 'geometry', 'polygon', 'responsive']
+		tags: ['hover', 'clip-path', 'geometry', 'responsive']
 	},
 	{
 		link: 'zgovXj',
@@ -1361,7 +1361,7 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Effect Parallax Scrolling clip-mask',
-		tags: ['scroll', 'parallax', 'background-clip', 'background-clip', 'text-fill-color', 'responsive']
+		tags: ['scroll', 'parallax', 'background-clip', 'text-fill-color', 'responsive']
 	},
 	{
 		link: 'gObzOJV',
@@ -1427,6 +1427,6 @@ const projectsCss = [
 		likes: 0,
 		views: 500,
 		title: 'Effect Diagonal',
-		tags: ['clip-path', 'polygon', 'geometry', 'hover', 'responsive']
+		tags: ['clip-path', 'geometry', 'hover', 'responsive']
 	}
 ];

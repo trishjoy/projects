@@ -5,7 +5,7 @@ const projectsJavascript = [
 		date: '01-01-2022',
 		technology: 'Javascript',
 		isFavorite: false,
-		likes: 10000000000,
+		likes: 0,
 		views: 500,
 		title: 'Merry Christmas!',
 		tags: ['animation', 'image', 'background-position', 'border']
@@ -19,7 +19,7 @@ const projectsJavascript = [
 		likes: 0,
 		views: 500,
 		title: 'Template Responsive',
-		tags: ['template', 'layout', 'responsive', 'hamburger', 'menu']
+		tags: ['template', 'responsive', 'hamburger', 'menu']
 	},
 	{
 		link: 'rrrVbV',
@@ -30,7 +30,7 @@ const projectsJavascript = [
 		likes: 0,
 		views: 500,
 		title: 'Password Generator',
-		tags: ['form', 'responsive', 'border', 'password', 'clipboard', 'button']
+		tags: ['form', 'responsive', 'border', 'clipboard', 'button']
 	},
 	{
 		link: 'MBGyRe',
@@ -261,7 +261,7 @@ const projectsJavascript = [
 		likes: 0,
 		views: 500,
 		title: 'Slider',
-		tags: ['slider', 'lightbox']
+		tags: ['slider']
 	},
 	{
 		link: 'KrPLQM',
@@ -371,7 +371,7 @@ const projectsJavascript = [
 		likes: 0,
 		views: 15000,
 		title: 'Lightbox Responsive',
-		tags: ['lightbox', 'responsive', 'cards', 'image', 'modal', 'grid']
+		tags: ['responsive', 'cards', 'image', 'modal', 'grid']
 	},
 	{
 		link: 'LebbxJ',
@@ -492,7 +492,7 @@ const projectsJavascript = [
 		likes: 0,
 		views: 500,
 		title: 'Form Card Credit',
-		tags: ['card', 'form', 'validation', 'clip-path', 'polygon', 'responsive']
+		tags: ['card', 'form', 'validation', 'clip-path', 'responsive']
 	},
 	{
 		link: 'MNjjrz',
@@ -635,7 +635,7 @@ const projectsJavascript = [
 		likes: 0,
 		views: 10,
 		title: 'Youtube',
-		tags: ['template', 'layout', 'grid', 'menu', 'responsive']
+		tags: ['template', 'grid', 'menu', 'responsive']
 	},
 	{
 		link: 'PowePzx',
@@ -668,7 +668,7 @@ const projectsJavascript = [
 		likes: 0,
 		views: 10,
 		title: 'Template Bootstrap',
-		tags: ['template', 'layout', 'slider', 'animation', 'bootstrap', 'library', 'responsive']
+		tags: ['template', 'slider', 'animation', 'bootstrap', 'library', 'responsive']
 	},
 	{
 		link: 'aPMEYq',
@@ -789,7 +789,7 @@ const projectsJavascript = [
 		likes: 0,
 		views: 350,
 		title: 'Masonry Layout Js',
-		tags: ['template', 'layout', 'masonry', 'grid', 'responsive']
+		tags: ['template', 'masonry', 'grid', 'responsive']
 	},
 	{
 		link: 'VGyvzy',
@@ -833,7 +833,7 @@ const projectsJavascript = [
 		likes: 0,
 		views: 500,
 		title: 'Masonry Grid Layout Responsive',
-		tags: ['template', 'columns', 'layout', 'responsive', 'cards']
+		tags: ['template', 'columns', 'responsive', 'cards']
 	},
 	{
 		link: 'oNNBBdZ',
