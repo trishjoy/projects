@@ -5,7 +5,7 @@ const projectsJavascript = [
 		date: '01-01-2022',
 		technology: 'Javascript',
 		isFavorite: false,
-		likes: 0,
+		likes: 10000000000,
 		views: 500,
 		title: 'Merry Christmas!',
 		tags: ['animation', 'image', 'background-position', 'border']
